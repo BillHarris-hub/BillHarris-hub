@@ -1,0 +1,3 @@
+git config --global user.name "William Harris"
+git config --global user.email YOUREMAIL@YOUREMAIL.com
+git congif --global pull.reabse true
